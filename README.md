@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Christopher-OOC
-- 👀 I’m interested in Web and Desktop development
+- 👋 Hi, I’m Christopher
+- 👀 I’m a web developer with 4 years experience on java platform.
+- I currently have the following skills: Java, Spring, Hibernate, HTML, CSS, JavaScript, React.js, AWS,
+-  Apache Kafka, Maven, Git, Open Api, Restful Web Services, Microservices, Unit Testing and Integration Testing.
+- 
 - 🌱 I’m currently learning the Spring framework
 - 💞️ I’m looking to collaborate!
  on ...
