@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christopher
 - 👀 I’m a web developer with 4 years experience on java platform.
-- I currently have the following skills: Java, Spring, Hibernate, HTML, CSS, JavaScript, React.js, AWS,
--  Apache Kafka, Maven, Git, Open Api, Restful Web Services, Microservices, Unit Testing and Integration Testing.
+- I currently have the following skills: Java, Spring, Hibernate, Restful Web Services, Microservices, Unit Testing and Integration Testing HTML, CSS, JavaScript, React.js, AWS, Apache Kafka, Elastic Search, Maven, Git, Open Api.
 - 
 - 🌱 I’m currently learning the Spring framework
 - 💞️ I’m looking to collaborate!
