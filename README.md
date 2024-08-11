@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning the Spring framework
 - 💞️ I’m looking to collaborate!
  on ...
-- 📫 You can contact me @ olojedechristopher24@gmail.com
+- 📫 You can contact me @ olojedechristopher24@gmail.com or christopherjavalord@gmail.com
 
 <!---
 Christopher-OOC/Christopher-OOC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
